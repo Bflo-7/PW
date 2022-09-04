@@ -1,0 +1,50 @@
+body{
+  background-color: #7dc791;
+  margin: 0;
+}
+
+hr{
+  background-color: white;
+  border-style: none;
+  height: 2px;
+}
+
+a:hover{
+  color:white;
+}
+/*-------------------class selectors------------------------------------------*/
+.hotbar{
+  text-align: right;
+  align-items: flex-end;
+  font-size: 30px;
+}
+
+.links{
+  color: #a1ffba;
+  text-decoration: line-through;
+}
+.top{
+  height: 1250px;
+  text-align: center;
+}
+
+.head{
+  position: relative;
+
+  margin-bottom: 0;
+}
+
+.sub{
+  font-size: 20px;
+  padding-bottom: 20px;
+}
+
+.mid{
+  background-color: #93e6a9;
+  height: 200px;
+}
+
+.bottom{
+  background-color: #b3ffc7;
+  height: 200px;
+}
